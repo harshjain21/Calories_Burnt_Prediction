@@ -1,1 +1,1 @@
-# Calories_Burnt_Prediction
+# Heart_Disease_Prediction
